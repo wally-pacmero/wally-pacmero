@@ -5,7 +5,7 @@ Hi! My gamer name is Wally and i like develop on ruby!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wally-pacmero&langs_count=4&count_private=true&theme=synthwave" />
 </a></p>
 <p align="center"><a href="#">
-  <img src="https://github-profile-trophy.vercel.app/?username=wally-pacmero&margin-w=28&margin-h=15&theme=synthwave" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wally-pacmero&margin-w=28&margin-h=15&theme=nord" />
 </p></a></p>
   
 <p align="center"><a href="#">
