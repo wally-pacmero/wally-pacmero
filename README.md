@@ -13,6 +13,7 @@ Hi! My gamer name is Wally,i like develop on ruby!
   <img src="https://img.shields.io/badge/-Java-2e3440?logoColor=81a1c1&logo=Java" />
   <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=81a1c1&logo=PHP" />
   <img src="https://img.shields.io/badge/-SQL-2e3440?logoColor=81a1c1&logo=MySQL" />
+<img src="https://img.shields.io/badge/-Ruby-2e3440?logoColor=81a1c1&logo=Ruby" />
 </a></p>
 <p align="center"><a href="#">
   <img src="https://img.shields.io/badge/-Git-2e3440?logoColor=81a1c1&logo=git" />
