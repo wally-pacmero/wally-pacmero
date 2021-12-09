@@ -1,11 +1,11 @@
 # :star: My Statistics
 Hi! My gamer name is Wally and i like develop on ruby!
 <p align="center"><a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=wally-pacmero&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wally-pacmero&langs_count=4&count_private=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wally-pacmero&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=green" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wally-pacmero&langs_count=4&count_private=true&theme=green" />
 </a></p>
 <p align="center"><a href="#">
-  <img src="https://github-profile-trophy.vercel.app/?username=wally-pacmero&margin-w=28&margin-h=15&theme=nord" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wally-pacmero&margin-w=28&margin-h=15&theme=green" />
 </p></a></p>
   
 <p align="center"><a href="#">
